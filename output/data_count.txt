@@ -1,0 +1,3 @@
+PSHT	: 5855
+Pendekar: 6079
+Tamsis	: 1247
